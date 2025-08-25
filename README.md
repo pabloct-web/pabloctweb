@@ -47,7 +47,7 @@ Here are some of my recent projects:
 | Python Bot 1 | Automates tasks using Python | [GitHub](#) |
 | Personal Portfolio | My portfolio on GitHub | [GitHub](#) |
 
-> 🔗 Check all projects: [GitHub](https://github.com/your-username)
+> 🔗 Check all projects: [GitHub](https://github.com/pabloctweb)
 
 ---
 
